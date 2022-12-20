@@ -1,0 +1,1262 @@
+[
+	{
+		"name": "Sovereignty",
+		"cost": 2200,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/sovereignty.jpg"
+	},
+	{
+		"name": "Mystical Mail",
+		"cost": 2550,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/mystical-mail.jpg"
+	},
+	{
+		"name": "Midgardian Mail",
+		"cost": 2400,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/midgardian-mail.jpg"
+	},
+	{
+		"name": "Emperor's Armor",
+		"cost": 2100,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/emperors-armor.jpg"
+	},
+	{
+		"name": "The Executioner",
+		"cost": 2250,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/the-executioner.jpg"
+	},
+	{
+		"name": "Qin's Sais",
+		"cost": 2650,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/qins-sais.jpg"
+	},
+	{
+		"name": "Asi",
+		"cost": 2600,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/asi.jpg"
+	},
+	{
+		"name": "Pythagorem's Piece",
+		"cost": 2300,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/pythagorems-piece.jpg"
+	},
+	{
+		"name": "Bancroft's Talon",
+		"cost": 2800,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/bancrofts-talon.jpg"
+	},
+	{
+		"name": "Typhon's Fang",
+		"cost": 3100,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/typhons-fang.jpg"
+	},
+	{
+		"name": "Soul Gem",
+		"cost": 2300,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/soul-gem.jpg"
+	},
+	{
+		"name": "Titan's Bane",
+		"cost": 2650,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/titans-bane.jpg"
+	},
+	{
+		"name": "Brawler's Beat Stick",
+		"cost": 2500,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/brawlers-beat-stick.jpg"
+	},
+	{
+		"name": "Jotunn's Wrath",
+		"cost": 2350,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/jotunns-wrath.jpg"
+	},
+	{
+		"name": "The Crusher",
+		"cost": 2550,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/the-crusher.jpg"
+	},
+	{
+		"name": "Transcendence",
+		"cost": 2600,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/transcendence.jpg"
+	},
+	{
+		"name": "Hydra's Lament",
+		"cost": 2300,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/hydras-lament.jpg"
+	},
+	{
+		"name": "Heartseeker",
+		"cost": 2900,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/heartseeker.jpg"
+	},
+	{
+		"name": "Dominance",
+		"cost": 2500,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/dominance.jpg"
+	},
+	{
+		"name": "Deathbringer",
+		"cost": 2850,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/deathbringer.jpg"
+	},
+	{
+		"name": "Rage",
+		"cost": 2450,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/rage.jpg"
+	},
+	{
+		"name": "Soul Eater",
+		"cost": 1950,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/soul-eater.jpg"
+	},
+	{
+		"name": "Devourer's Gauntlet",
+		"cost": 2500,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/devourers-gauntlet.jpg"
+	},
+	{
+		"name": "Bloodforge",
+		"cost": 2950,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/bloodforge.jpg"
+	},
+	{
+		"name": "Witchblade",
+		"cost": 2100,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/witchblade.jpg"
+	},
+	{
+		"name": "Winged Blade",
+		"cost": 1900,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/winged-blade.jpg"
+	},
+	{
+		"name": "Relic Dagger",
+		"cost": 1900,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/relic-dagger.jpg"
+	},
+	{
+		"name": "Toxic Blade",
+		"cost": 2350,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/toxic-blade.jpg"
+	},
+	{
+		"name": "Frostbound Hammer",
+		"cost": 2350,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/frostbound-hammer.jpg"
+	},
+	{
+		"name": "Runeforged Hammer",
+		"cost": 2450,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/runeforged-hammer.jpg"
+	},
+	{
+		"name": "The Sledge",
+		"cost": 2300,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/the-sledge.jpg"
+	},
+	{
+		"name": "Blackthorn Hammer",
+		"cost": 2300,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/blackthorn-hammer.jpg"
+	},
+	{
+		"name": "Shifter's Shield",
+		"cost": 2200,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/shifters-shield.jpg"
+	},
+	{
+		"name": "Void Shield",
+		"cost": 2700,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/void-shield.jpg"
+	},
+	{
+		"name": "Gladiator's Shield",
+		"cost": 2250,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/gladiators-shield.jpg"
+	},
+	{
+		"name": "Berserker's Shield",
+		"cost": 2250,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "hunter",
+		"starter": false,
+		"icon": "images/smite/items/berserkers-shield.jpg"
+	},
+	{
+		"name": "Hide of the Nemean Lion",
+		"cost": 2050,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/hide-of-the-nemean-lion.jpg"
+	},
+	{
+		"name": "Breastplate of Valor",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/breastplate-of-valor.jpg"
+	},
+	{
+		"name": "Spectral Armor",
+		"cost": 1950,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/spectral-armor.jpg"
+	},
+	{
+		"name": "Contagion",
+		"cost": 1900,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/contagion.jpg"
+	},
+	{
+		"name": "Magi's Cloak",
+		"cost": 2000,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/magis-cloak.jpg"
+	},
+	{
+		"name": "Hide of the Urchin",
+		"cost": 2700,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/hide-of-the-urchin.jpg"
+	},
+	{
+		"name": "Spirit Robe",
+		"cost": 2700,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/spirit-robe.jpg"
+	},
+	{
+		"name": "Mantle of Discord",
+		"cost": 3100,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/mantle-of-discord.jpg"
+	},
+	{
+		"name": "Bulwark of Hope",
+		"cost": 2250,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/bulwark-of-hope.jpg"
+	},
+	{
+		"name": "Pestilence",
+		"cost": 2200,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/pestilence.jpg"
+	},
+	{
+		"name": "Heartward Amulet",
+		"cost": 2050,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/heartward-amulet.jpg"
+	},
+	{
+		"name": "Talisman of Energy",
+		"cost": 2100,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/talisman-of-energy.jpg"
+	},
+	{
+		"name": "Demonic Grip",
+		"cost": 2400,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/demonic-grip.jpg"
+	},
+	{
+		"name": "Telkhines Ring",
+		"cost": 2800,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/telkhines-ring.jpg"
+	},
+	{
+		"name": "Hastened Ring",
+		"cost": 2800,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/hastened-ring.jpg"
+	},
+	{
+		"name": "Ring of Hecate",
+		"cost": 2600,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/ring-of-hecate.jpg"
+	},
+	{
+		"name": "Divine Ruin",
+		"cost": 2300,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/divine-ruin.jpg"
+	},
+	{
+		"name": "Spear of Desolation",
+		"cost": 2600,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/spear-of-desolation.jpg"
+	},
+	{
+		"name": "Obsidian Shard",
+		"cost": 2650,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/obsidian-shard.jpg"
+	},
+	{
+		"name": "Spear of the Magus",
+		"cost": 2550,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/spear-of-the-magus.jpg"
+	},
+	{
+		"name": "Gem of Isolation",
+		"cost": 2750,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/gem-of-isolation.jpg"
+	},
+	{
+		"name": "Warlock's Staff",
+		"cost": 2550,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/warlocks-staff.jpg"
+	},
+	{
+		"name": "Ethereal Staff",
+		"cost": 2650,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/ethereal-staff.jpg"
+	},
+	{
+		"name": "Rod of Asclepius",
+		"cost": 2800,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/rod-of-asclepius.jpg"
+	},
+	{
+		"name": "Book of Thoth",
+		"cost": 2550,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/book-of-thoth.jpg"
+	},
+	{
+		"name": "Polynomicon",
+		"cost": 2350,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/polynomicon.jpg"
+	},
+	{
+		"name": "Soul Reaver",
+		"cost": 2700,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/soul-reaver.jpg"
+	},
+	{
+		"name": "Book of the Dead",
+		"cost": 2650,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/book-of-the-dead.jpg"
+	},
+	{
+		"name": "Rod of Tahuti",
+		"cost": 3300,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/rod-of-tahuti.jpg"
+	},
+	{
+		"name": "Chronos' Pendant",
+		"cost": 3000,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/chronos-pendant.jpg"
+	},
+	{
+		"name": "Doom Orb",
+		"cost": 3350,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/doom-orb.jpg"
+	},
+	{
+		"name": "Charon's Coin",
+		"cost": 2700,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/charons-coin.jpg"
+	},
+	{
+		"name": "Runic Shield",
+		"cost": 2000,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/runic-shield.jpg"
+	},
+	{
+		"name": "Ancile",
+		"cost": 2100,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/ancile.jpg"
+	},
+	{
+		"name": "Caduceus Shield",
+		"cost": 2350,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/caduceus-shield.jpg"
+	},
+	{
+		"name": "Celestial Legion Helm",
+		"cost": 2150,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/celestial-legion-helm.jpg"
+	},
+	{
+		"name": "Lotus Crown",
+		"cost": 2150,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/lotus-crown.jpg"
+	},
+	{
+		"name": "Jade Emperor's Crown",
+		"cost": 2600,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/jade-emperors-crown.jpg"
+	},
+	{
+		"name": "Tyrannical Plate Helm",
+		"cost": 2800,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/tyrannical-plate-helm.jpg"
+	},
+	{
+		"name": "Odysseus' Bow",
+		"cost": 2000,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/odysseus-bow.jpg"
+	},
+	{
+		"name": "Ichaival",
+		"cost": 2350,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/ichaival.jpg"
+	},
+	{
+		"name": "Silverbranch Bow",
+		"cost": 2300,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/silverbranch-bow.jpg"
+	},
+	{
+		"name": "Atalanta's Bow",
+		"cost": 2400,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/atalantas-bow.jpg"
+	},
+	{
+		"name": "Stone of Gaia",
+		"cost": 2450,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/stone-of-gaia.jpg"
+	},
+	{
+		"name": "Shield of Regrowth",
+		"cost": 2050,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/shield-of-regrowth.jpg"
+	},
+	{
+		"name": "Gauntlet of Thebes",
+		"cost": 2400,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/gauntlet-of-thebes.jpg"
+	},
+	{
+		"name": "Mail of Renewal",
+		"cost": 2450,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/mail-of-renewal.jpg"
+	},
+	{
+		"name": "Wind Demon",
+		"cost": 2600,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/wind-demon.jpg"
+	},
+	{
+		"name": "Shadowsteel Shuriken",
+		"cost": 2500,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/shadowsteel-shuriken.jpg"
+	},
+	{
+		"name": "Stone Cutting Sword",
+		"cost": 2250,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "guardian,hunter,mage",
+		"starter": false,
+		"icon": "images/smite/items/stone-cutting-sword.jpg"
+	},
+	{
+		"name": "Hastened Katana",
+		"cost": 2500,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "guardian,hunter,mage",
+		"starter": false,
+		"icon": "images/smite/items/hastened-katana.jpg"
+	},
+	{
+		"name": "Golden Blade",
+		"cost": 2200,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "guardian,hunter,mage",
+		"starter": false,
+		"icon": "images/smite/items/golden-blade.jpg"
+	},
+	{
+		"name": "Serrated Edge",
+		"cost": 2700,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "guardian,hunter,mage",
+		"starter": false,
+		"icon": "images/smite/items/serrated-edge.jpg"
+	},
+	{
+		"name": "Genji's Guard",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/genjis-guard.jpg"
+	},
+	{
+		"name": "Oni Hunter's Garb",
+		"cost": 2050,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/oni-hunters-garb.jpg"
+	},
+	{
+		"name": "Shogun's Kusari",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/shoguns-kusari.jpg"
+	},
+	{
+		"name": "Void Stone",
+		"cost": 2400,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/void-stone.jpg"
+	},
+	{
+		"name": "Stone of Fal",
+		"cost": 2550,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/stone-of-fal.jpg"
+	},
+	{
+		"name": "Rangda's Mask",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Offensive",
+		"restrictedRoles": "assassin,hunter,mage",
+		"starter": true,
+		"icon": "images/smite/items/rangdas-mask.jpg"
+	},
+	{
+		"name": "Pridwen",
+		"cost": 2200,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/pridwen.jpg"
+	},
+	{
+		"name": "Arondight",
+		"cost": 2400,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "hunter",
+		"starter": false,
+		"icon": "images/smite/items/arondight.jpg"
+	},
+	{
+		"name": "Fail-not",
+		"cost": 2450,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "assassin,warrior",
+		"starter": false,
+		"icon": "images/smite/items/fail-not.jpg"
+	},
+	{
+		"name": "Staff of Myrddin",
+		"cost": 2400,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/staff-of-myrddin.jpg"
+	},
+	{
+		"name": "Bristlebush Acorn",
+		"cost": 2750,
+		"type": "Acorn",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/bristlebush-acorn.jpg"
+	},
+	{
+		"name": "Thistlethorn Acorn",
+		"cost": 2750,
+		"type": "Acorn",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/thistlethorn-acorn.jpg"
+	},
+	{
+		"name": "Evergreen Acorn",
+		"cost": 2750,
+		"type": "Acorn",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/evergreen-acorn.jpg"
+	},
+	{
+		"name": "Thickbark Acorn",
+		"cost": 2750,
+		"type": "Acorn",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/thickbark-acorn.jpg"
+	},
+	{
+		"name": "Bluestone Brooch",
+		"cost": 2200,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/bluestone-brooch.jpg"
+	},
+	{
+		"name": "Corrupted Bluestone",
+		"cost": 2200,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/corrupted-bluestone.jpg"
+	},
+	{
+		"name": "Death's Embrace",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/deaths-embrace.jpg"
+	},
+	{
+		"name": "Death's Temper",
+		"cost": 2150,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/deaths-temper.jpg"
+	},
+	{
+		"name": "Diamond Arrow",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/diamond-arrow.jpg"
+	},
+	{
+		"name": "Ornate Arrow",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/ornate-arrow.jpg"
+	},
+	{
+		"name": "Sundering Axe",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/sundering-axe.jpg"
+	},
+	{
+		"name": "Hero's Axe",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/heros-axe.jpg"
+	},
+	{
+		"name": "Manikin Mace",
+		"cost": 2250,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/manikin-mace.jpg"
+	},
+	{
+		"name": "Manikin Hidden Blade",
+		"cost": 2250,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/manikin-hidden-blade.jpg"
+	},
+	{
+		"name": "Bumba's Spear",
+		"cost": 2100,
+		"type": "Both",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/bumbas-spear.jpg"
+	},
+	{
+		"name": "Bumba's Hammer",
+		"cost": 2100,
+		"type": "Both",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/bumbas-hammer.jpg"
+	},
+	{
+		"name": "Pendulum of Ages",
+		"cost": 2200,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/pendulum-of-ages.jpg"
+	},
+	{
+		"name": "The Alternate Timeline",
+		"cost": 2200,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/the-alternate-timeline.jpg"
+	},
+	{
+		"name": "Blood-soaked Shroud",
+		"cost": 2200,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/blood-soaked-shroud.jpg"
+	},
+	{
+		"name": "Sacrificial Shroud",
+		"cost": 2200,
+		"type": "Magical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/sacrificial-shroud.jpg"
+	},
+	{
+		"name": "Sentinel's Boon",
+		"cost": 1800,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/sentinels-boon.jpg"
+	},
+	{
+		"name": "Sentinel's Embrace",
+		"cost": 1800,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/sentinels-embrace.jpg"
+	},
+	{
+		"name": "Compassion",
+		"cost": 1850,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/compassion.jpg"
+	},
+	{
+		"name": "Animosity",
+		"cost": 1850,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/animosity.jpg"
+	},
+	{
+		"name": "Tainted Amulet",
+		"cost": 2100,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/tainted-amulet.jpg"
+	},
+	{
+		"name": "Tainted Breastplate",
+		"cost": 2100,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/tainted-breastplate.jpg"
+	},
+	{
+		"name": "Hunter's Cowl",
+		"cost": 2200,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/hunters-cowl.jpg"
+	},
+	{
+		"name": "Leader's Cowl",
+		"cost": 2200,
+		"type": "Physical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/leaders-cowl.jpg"
+	},
+	{
+		"name": "Archmage's Gem",
+		"cost": 2200,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/archmages-gem.jpg"
+	},
+	{
+		"name": "Gem of Focus",
+		"cost": 2200,
+		"type": "Magical",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/gem-of-focus.jpg"
+	},
+	{
+		"name": "Seer of the Jungle",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/seer-of-the-jungle.jpg"
+	},
+	{
+		"name": "Protector of the Jungle",
+		"cost": 2150,
+		"type": "Both",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/protector-of-the-jungle.jpg"
+	},
+	{
+		"name": "Sigil of The Old Guard",
+		"cost": 2150,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/sigil-of-the-old-guard.jpg"
+	},
+	{
+		"name": "Infused Sigil",
+		"cost": 2150,
+		"type": "Physical",
+		"buildType": "Hybrid",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/infused-sigil.jpg"
+	},
+	{
+		"name": "Spartan Flag",
+		"cost": 1850,
+		"type": "Both",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/spartan-flag.jpg"
+	},
+	{
+		"name": "War Banner",
+		"cost": 1850,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": true,
+		"icon": "images/smite/items/war-banner.jpg"
+	},
+	{
+		"name": "Lono's Mask",
+		"cost": 1900,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "guardian,warrior",
+		"starter": true,
+		"icon": "images/smite/items/lonos-mask.jpg"
+	},
+	{
+		"name": "Fae-Blessed Hoops",
+		"cost": 2600,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/fae-blessed-hoops.jpg"
+	},
+	{
+		"name": "Sphinx's Bauble",
+		"cost": 3300,
+		"type": "Both",
+		"buildType": "Offensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/sphinxs-bauble.jpg"
+	},
+	{
+		"name": "Manticore's Spike",
+		"cost": 2600,
+		"type": "Both",
+		"buildType": "Defensive",
+		"restrictedRoles": "None",
+		"starter": false,
+		"icon": "images/smite/items/manticores-spike.jpg"
+	},
+	{
+		"name": "Griffonwing Earrings",
+		"cost": 2700,
+		"type": "Both",
+		"buildType": "Offensive",
+		"restrictedRoles": "assassin,guardian,warrior",
+		"starter": false,
+		"icon": "images/smite/items/griffonwing-earrings.jpg"
+	}
+]
